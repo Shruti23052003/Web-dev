@@ -1,0 +1,32 @@
+html {
+    text-align: center;
+    text-align: 
+}
+
+a{
+   color: black;
+}
+h1 {
+    color: MidnightBlue;
+    font-style: italic;
+    font-family: Helvetica;
+}
+
+title {
+    color:navy;
+    font-style: italic;
+    font-family: Helvetica;
+}
+
+
+form{
+    align-items: center;
+    font-family: monospace;
+    font-size: 20px;
+
+}
+
+a{
+    color:black;
+    font-size: 15px;
+}
